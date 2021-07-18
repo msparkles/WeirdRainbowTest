@@ -1,7 +1,7 @@
 #define OLC_PGE_APPLICATION
 
 #include "image.hpp"
-#include "mask.h"
+#include "mask.hpp"
 #include "olcPixelGameEngine.h"
 
 class Test : public olc::PixelGameEngine {

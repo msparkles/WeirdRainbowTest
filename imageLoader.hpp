@@ -6,7 +6,7 @@
 #include <fstream>
 #include <iostream>
 
-#include "color.h"
+#include "color.hpp"
 #include "image.cpp"
 #include "olcPixelGameEngine.h"
 

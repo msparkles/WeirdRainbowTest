@@ -3,7 +3,7 @@
 
 #include <functional>
 
-#include "color.h"
+#include "color.hpp"
 
 class Image {
 protected:

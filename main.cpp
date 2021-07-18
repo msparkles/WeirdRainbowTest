@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#include "imageLoader.h"
-#include "test.h"
+#include "imageLoader.hpp"
+#include "test.hpp"
 
 int main() {
 	Test demo(readBMP("background.bmp"));
